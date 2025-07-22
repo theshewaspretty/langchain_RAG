@@ -24,11 +24,11 @@ from dotenv import load_dotenv
 
 
 # AWS 리전 설정
-REGION = "ap-northeast-2"  # 현재 설정된 리전으로 변경
+REGION = "ap-northeast-2"  # seoul
 
 # Bedrock 모델 ID 설정
 EMBEDDING_MODEL_ID = "amazon.titan-embed-text-v2:0"  # 사용 가능한 임베딩 모델
-LLM_MODEL_ID = "anthropic.claude-3-haiku-20240307-v1:0"  # 사용 가능한 LLM 모델
+LLM_MODEL_ID = "anthropic.claude-3-haiku-20240307-v1:0"  # 사용 가능한 LLM 모델 - claude 4 안됨
 
 def init_bedrock_client():
     """Bedrock 클라이언트 초기화"""
