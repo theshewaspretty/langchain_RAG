@@ -1,0 +1,8 @@
+
+        AWS(Amazon Web Services)는 클라우드 컴퓨팅 서비스를 제공하는 플랫폼입니다.
+        주요 서비스로는 EC2(가상 서버), S3(스토리지), Lambda(서버리스 컴퓨팅), 
+        DynamoDB(NoSQL 데이터베이스) 등이 있습니다.
+        AWS Bedrock은 Amazon의 생성형 AI 서비스로, 다양한 기반 모델(FM)에 대한 
+        액세스를 제공합니다. Claude, Llama 2, Amazon Titan 등의 모델을 API를 통해 
+        사용할 수 있습니다.
+        
