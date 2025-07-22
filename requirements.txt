@@ -5,3 +5,4 @@ langgraph>=0.0.20
 boto3>=1.28.0
 faiss-cpu>=1.7.4
 python-dotenv>=1.0.0
+streamlit
